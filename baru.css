@@ -1,0 +1,62 @@
+body	{
+	font-family: century gothic;
+	color: white;
+	font-size: 18px;
+	background-image: url(img/b3.jpg);
+	padding-left: 25px;
+}
+
+img {
+	width: 200px;
+	border-radius: 7px;
+	margin-left: 5px;
+	margin-bottom: 5 px;
+}
+
+ul {
+	overflow: hidden;
+
+}
+
+li	{
+	float: left;
+	list-style: none;
+	padding: 15px;
+
+	background-color: #7D3030;
+	border-left: solid #000000;
+	border-right: solid #000000;
+	border-radius: 20px;
+
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.container{
+	float: left;
+	list-style: none;
+	width: 1260px;
+	height: 160px;
+	padding: 15px;
+
+	background-color: #7D3030;
+	border-left: solid #000000;
+	border-right: solid #000000;
+	border-radius: 20px;
+}
+
+#container {
+	float: left;
+	list-style: none;
+	width: 1260px;
+	height: 160px;
+	padding: 15px;
+
+	background-color: #7D3030;
+	border-left: solid #000000;
+	border-right: solid #000000;
+	border-radius: 20px;
+}

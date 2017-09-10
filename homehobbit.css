@@ -1,0 +1,58 @@
+body	{
+	font-family: Arabic Typesetting;
+	color: white;
+	font-size: 28px;
+	background-image: url(img/b3.jpg);
+	padding-left: 25px;
+}
+h2 {
+	font-family: Centaur;
+	font-style: italic;
+}
+img {
+	width: 200px;
+	border-radius: 7px;
+	margin-left: 5px;
+	margin-bottom: 5 px;
+}
+
+ul {
+	overflow: hidden;
+
+}
+
+li	{
+	float: left;
+	list-style: none;
+	padding: 15px;
+
+	background-color: #7D3030;
+	border-left: solid #000000;
+	border-right: solid #000000;
+	border-radius: 20px;
+
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.container{
+	margin: 10px 10px 10px 40px;
+	list-style: none;
+	width: 1100px;
+	height: 1000px;
+	padding: 15px;
+
+	background-color: #191920;
+	border-left: solid #000000;
+	border-right: solid #000000;
+	border-radius: 20px;
+}
+
+p {
+	text-align: justify;
+	text-indent: 0.5in;
+
+}
